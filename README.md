@@ -1,7 +1,8 @@
-## HI! I´m {Dani}!
+## HI! I´m Dani!
 
 ### programming since 2020
 
+### GitHub Profile
 <table>
   <tr>
     <td>
@@ -31,7 +32,7 @@
 
 --- 
 
-### GitHub Profile
+
 <p align="center">
   <a
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManzanoFernanda&theme=dark&show_icons=true)
